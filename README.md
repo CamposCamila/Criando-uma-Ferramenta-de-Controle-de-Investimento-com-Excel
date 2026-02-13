@@ -58,11 +58,5 @@ Planejamento financeiro
 
 Simulação de cenários
 
-
 Comparação entre diferentes tipos de ativos
 
-Versão com VBA para maior automação
-
-👨‍💻 Autor
-
-Desenvolvido como projeto prático para aplicação de conceitos de Excel voltados ao mercado financeiro.
