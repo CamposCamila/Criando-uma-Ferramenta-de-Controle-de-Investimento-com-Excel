@@ -71,7 +71,7 @@ Comparação entre diferentes tipos de ativos
 
 ![image alt](https://github.com/CamposCamila/Criando-uma-Ferramenta-de-Controle-de-Investimento-com-Excel/blob/9e983700c50ac6eeb3725b0012ae1c3c727c6a66/Criando%20uma%20Ferramenta%20de%20Controle%20de%20Investimento%20com%20Excel%201.jpg)
 
-![image alt]()
+![image alt](https://github.com/CamposCamila/Criando-uma-Ferramenta-de-Controle-de-Investimento-com-Excel/blob/c68e1dc179d2fd8403474d851b33e5a7783bd4a7/Criando%20uma%20Ferramenta%20de%20Controle%20de%20Investimento%20com%20Excel%202.jpg)
 
 ![image alt]()
 
