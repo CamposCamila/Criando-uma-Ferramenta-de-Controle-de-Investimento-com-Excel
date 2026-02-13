@@ -61,11 +61,6 @@ Simulação de cenários
 
 Comparação entre diferentes tipos de ativos
 
-🧠 Tecnologias Utilizadas
-
-Excel 
-
-
 🧾 Autor(a)
 
 👩‍💻 Camila Campos
