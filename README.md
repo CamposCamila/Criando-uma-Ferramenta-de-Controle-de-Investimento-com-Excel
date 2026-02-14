@@ -63,7 +63,7 @@ Comparação entre diferentes tipos de ativos
 
 🧾 Autor(a)
 
-👩‍💻 Camila Campos
+Camila Campos
 
 📚 Estudante de Administração - UFRRJ com foco em Análise de Dados e Inteligência Artificial.
 
