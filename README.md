@@ -1,6 +1,5 @@
 # Criando-uma-Ferramenta-de-Controle-de-Investimento-com-Excel
 
-Criando uma Ferramenta de Controle de Investimento com Excel
 
 📘 Sobre o Projeto
 
